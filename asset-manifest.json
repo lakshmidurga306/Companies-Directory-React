@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Companies-Directory-React/static/css/main.ffaeba28.css",
+    "main.js": "/Companies-Directory-React/static/js/main.d8a29bd1.js",
+    "index.html": "/Companies-Directory-React/index.html",
+    "main.ffaeba28.css.map": "/Companies-Directory-React/static/css/main.ffaeba28.css.map",
+    "main.d8a29bd1.js.map": "/Companies-Directory-React/static/js/main.d8a29bd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffaeba28.css",
+    "static/js/main.d8a29bd1.js"
+  ]
+}
